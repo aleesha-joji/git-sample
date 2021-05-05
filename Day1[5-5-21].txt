@@ -33,3 +33,52 @@ git log
 git commit
 ? it takes the added file from the staged area to the local repository
 
+---------------------------------------------------------------------------------------------
+
+working directory -----> staging area -----> local repo ------> remote repo
+
+                git add             git commit        git push
+
+
+git branching and merging
+
+types of merging
+1 recussive
+2 fast forward
+3 3-way
+
+********************************************************************************************
+
+SVN
+
+Centralized vc- version history is stored in a central server. 
+When a developer wants to make changes they pull files from that central server to their own
+computer and After the developer has made changes,send the changed files back to central server.
+
+For Subversion to work, the SVN setup needs two main elements:
+
+* The server, which has all versions of all source files
+* A local copy of the files, which is on your computer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
