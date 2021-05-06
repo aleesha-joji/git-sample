@@ -32,8 +32,41 @@ creates an empty git repo skelton which contains all the necessary repo files in
 currently working directry
 
 
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 modifications to tracked files Three way to commit changes:
 1. $git commit -a -m " your message"
 2. git commit -m " your Message"
 3. gitcommit -v -m "Message"
+
+
+********************************************************************************************
+git reset
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
